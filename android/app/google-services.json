@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56923984359",
+    "project_id": "influencer-dc0ea",
+    "storage_bucket": "influencer-dc0ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56923984359:android:e926cdba0b10a2b70bed42",
+        "android_client_info": {
+          "package_name": "com.influencer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56923984359-9hm0mor6plt9346pgh49uiua6g42gnca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.influencer",
+            "certificate_hash": "6d0bf65e0eaefa52b1b00f706a973b6c112b53e7"
+          }
+        },
+        {
+          "client_id": "56923984359-an8ucjojfq4puonokqehs4aq2l7r2i1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlzcX55etiQwmQpYljNemErRJOj9hIfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56923984359-an8ucjojfq4puonokqehs4aq2l7r2i1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
